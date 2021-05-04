@@ -21,5 +21,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 #DemoCICD
     - Updated Readme file for Test Run
     - Test Upate1
-    - Test Update after hook update
-    - Curl updated
+    - Test Update2
