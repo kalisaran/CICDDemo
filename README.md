@@ -22,3 +22,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
     - Updated Readme file for Test Run
     - Test Upate1
     - Test Update2
+    - AWS Test
